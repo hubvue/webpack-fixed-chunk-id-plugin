@@ -18,8 +18,12 @@ const WebpackFixedChunkIdPlugin = require("webpack-fixed-chunk-id-plugin");
 module.exports = {
   plugins: [
     new WebpackFixedChunkIdPlugin({
-      
+      //This is optional. Used to specify the length of hash generation, which is 8 by default
+      hashLength: 5
     })
   ]
 }
 ```
+
+## Author
+[Kim](https://github.com/hubvue)
