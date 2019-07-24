@@ -1,7 +1,7 @@
 {
   "name": "webpack-fixed-chunk-id-plugin",
   "version": "1.0.0",
-  "description": "",
+  "description": "A fixed chunkId optimized online caching webpack plugin",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
