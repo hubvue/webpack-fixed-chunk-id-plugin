@@ -1,6 +1,6 @@
 {
   "name": "webpack-fixed-chunk-id-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A fixed chunkId optimized online caching webpack plugin",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,15 @@
     "type": "git",
     "url": "git+https://github.com/hubvue/webpack-fixed-chunk-id-plugin.git"
   },
-  "keywords": [],
+  "keywords": [
+    "webpack",
+    "plugin",
+    "chunk",
+    "id",
+    "chunkId",
+    "fixed",
+    "fixed chunk id"
+  ],
   "author": "wangchong",
   "license": "ISC",
   "bugs": {
