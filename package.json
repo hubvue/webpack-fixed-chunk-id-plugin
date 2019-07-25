@@ -1,6 +1,6 @@
 {
   "name": "webpack-fixed-chunk-id-plugin",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A fixed chunkId optimized online caching webpack plugin",
   "main": "index.js",
   "scripts": {
